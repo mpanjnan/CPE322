@@ -7,7 +7,7 @@
 
 _About Me_
 1. I am a 3/4 CPE
-2. Worked in Autonomous Underwater Vehicles using ROS & Computer vision this summer
+2. Worked in Autonomous Underwater Vehicles using ROS & Computer vision this summer @ the University of Rhode Island
 
 [https://github.com/GSO-soslab/image_stitching_project/tree/main](url)
 
