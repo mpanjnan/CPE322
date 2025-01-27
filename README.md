@@ -8,6 +8,7 @@
 _About Me_
 1. I am a 3/4 CPE
 2. Worked in Autonomous Underwater Vehicles using ROS & Computer vision this summer
+
 [https://github.com/GSO-soslab/image_stitching_project/tree/main](url)
 
 ![image](https://github.com/user-attachments/assets/32ce19f9-d749-4dab-b64f-defb1fb9b3c7)
