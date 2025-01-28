@@ -18,6 +18,7 @@ _On Campus Involvement_
 * Treasurer of SWE
 * President of Poetry Club
 
+---
 
 **code sample**
 
