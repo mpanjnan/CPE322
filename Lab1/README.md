@@ -1,7 +1,7 @@
-#Lab 1: 
-##Using EDA Playground
+# Lab 1: 
+## Using EDA Playground
 
-###Running Half Adder Code:
+### Running Half Adder Code:
 
 Using the code given was quite simple, all EDA playground requires is information on which system to emulate, 
 and the top entity being used in the simulation
