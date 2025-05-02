@@ -1,4 +1,4 @@
-# Lab 3
+# Lab 4
 
 ## Installing Django
 ![2025-05-02-055924_738x576_scrot](https://github.com/user-attachments/assets/04a66cbb-ba17-422b-b7a5-21c2ce746d50)
