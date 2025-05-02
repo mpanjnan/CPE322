@@ -60,7 +60,7 @@ The below are all the various python modules that have been run.
 
 
 ### Modules
-![2025-05-02-054909_1920x1080_scrot](https://github.com/user-attachments/assets/60e9e704-dc17-4f37-8651-376d5724c591)
+![2025-05-02-055924_738x576_scrot](https://github.com/user-attachments/assets/235868d8-9d13-4481-81b9-f4fabcaa28dc)
 
 
 ### Read & Write Files
