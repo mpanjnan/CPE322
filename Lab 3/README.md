@@ -55,11 +55,8 @@ The below are all the various python modules that have been run.
 ![func2](https://github.com/user-attachments/assets/adcc13f2-61cb-4e80-91fa-64e3b5a20fcf)
 
 
-### Keyword Args
+### Keyword Args & Variable Length Args
 ![keyword](https://github.com/user-attachments/assets/836b0cfd-e466-4464-9314-107d37a42443)
-
-
-### Variable Length Args
 
 
 ### Modules
