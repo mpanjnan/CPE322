@@ -9,6 +9,3 @@
 ![2025-05-02-211921_1030x662_scrot](https://github.com/user-attachments/assets/ca8894b3-1b55-4576-a777-5c07d9a44167)
 
 ## Installing & Running Paho
-![Uploading 2025-05-02-230414_639x443_scrot.png…]()
-![Uploading 2025-05-02-230820_1505x1031_scrot.png…]()
-![Uploading 2025-05-02-230945_1436x1040_scrot.png…]()
