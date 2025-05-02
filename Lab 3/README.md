@@ -66,6 +66,3 @@ The below are all the various python modules that have been run.
 ### Read & Write Files
 ![2025-05-02-055432_1047x207_scrot](https://github.com/user-attachments/assets/963383fc-95e6-481e-a190-833a2fe445b8)
 ![2025-05-02-055432_1047x207_scrot](https://github.com/user-attachments/assets/044617dd-0a88-4cf9-94e9-eb47e9b84e5d)
-
-
-## Lab 3B
